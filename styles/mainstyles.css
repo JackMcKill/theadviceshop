@@ -93,6 +93,10 @@ header#pageHeader a {
     color: white;
 }
 
+header#pageHeader #login a {
+    text-decoration: underline;
+}
+
 #features {
     background-color: beige;
     clear: both;
