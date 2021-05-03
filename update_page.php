@@ -20,7 +20,7 @@ function generate_new_detail($colour, $animal, $number)
 
 <body>
 <?php include("inc_header.php");
-include("inc_nav.php"); ?>
+include("inc_acc_nav.php"); ?>
 <section id="content">
 
     <h2>Update Account Details</h2>
